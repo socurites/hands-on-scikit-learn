@@ -13,7 +13,17 @@
     <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap2.coverage" NAME="chap2 Coverage Results" MODIFIED="1538712577096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="chap2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap2/chap2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="98" column="70" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +37,9 @@
       <find>median_house_value</find>
       <find>info</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +65,7 @@
     <option name="width" value="2493" />
     <option name="height" value="1436" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -155,13 +169,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2625" y="-4" width="2495" height="1444" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32361734" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3241018" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13987976" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -198,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap2/chap2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3931">
-          <caret line="376" column="14" selection-start-line="376" selection-start-column="14" selection-end-line="376" selection-end-column="14" />
+        <state relative-caret-position="273">
+          <caret line="98" column="70" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="70" />
         </state>
       </provider>
     </entry>
