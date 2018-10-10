@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ed9e90-e4e4-4c59-b672-4a48d253e51d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83ed9e90-e4e4-4c59-b672-4a48d253e51d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +13,12 @@
     <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap3.coverage" NAME="chap3 Coverage Results" MODIFIED="1538743472422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap3" />
     <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap2.coverage" NAME="chap2 Coverage Results" MODIFIED="1538712577096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap2" />
     <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap4.coverage" NAME="chap4 Coverage Results" MODIFIED="1539053527651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap4" />
+    <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap10.coverage" NAME="chap10 Coverage Results" MODIFIED="1539070761685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap10" />
     <SUITE FILE_PATH="coverage/hands_on_scikit_learn$chap9.coverage" NAME="chap9 Coverage Results" MODIFIED="1539066880912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chap9" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="chap9.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chap9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap9/chap9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
@@ -27,6 +26,27 @@
               <folding>
                 <element signature="e#27#50#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chap10.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap10/chap10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tf_logging.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RunDeep/scikit-python3/lib/python3.5/site-packages/tensorflow/python/platform/tf_logging.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -60,6 +80,7 @@
         <option value="$PROJECT_DIR$/chap3/chap3.py" />
         <option value="$PROJECT_DIR$/chap4/chap4.py" />
         <option value="$PROJECT_DIR$/chap9/chap9.py" />
+        <option value="$PROJECT_DIR$/chap10/chap10.py" />
       </list>
     </option>
   </component>
@@ -108,6 +129,11 @@
               <item name="hands-on-scikit-learn" type="462c0819:PsiDirectoryNode" />
               <item name="chap9" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hands-on-scikit-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hands-on-scikit-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="chap10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,7 +166,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.chap9">
+  <component name="RunManager" selected="Python.chap10">
+    <configuration name="chap10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hands-on-scikit-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap10/chap10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="chap2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hands-on-scikit-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,9 +267,11 @@
       <item itemvalue="Python.chap3" />
       <item itemvalue="Python.chap4" />
       <item itemvalue="Python.chap9" />
+      <item itemvalue="Python.chap10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chap10" />
         <item itemvalue="Python.chap9" />
         <item itemvalue="Python.chap4" />
         <item itemvalue="Python.chap3" />
@@ -247,14 +294,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2624" y="-11" width="2497" height="1452" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3241018" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3241018" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13987976" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -361,12 +407,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/RunDeep/scikit-python3/lib/python3.5/site-packages/tensorflow/python/estimator/estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="280" column="6" selection-start-line="280" selection-start-column="6" selection-end-line="280" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RunDeep/scikit-python3/lib/python3.5/site-packages/tensorflow/python/platform/tf_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap9/chap9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="288" column="79" lean-forward="true" selection-start-line="288" selection-start-column="79" selection-end-line="288" selection-end-column="79" />
           <folding>
             <element signature="e#27#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap10/chap10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
