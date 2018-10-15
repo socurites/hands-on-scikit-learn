@@ -1,5 +1,5 @@
 """
-Perceptron: scikit-laern
+Perceptron: scikit-learn
 """
 
 import numpy as np
